@@ -23,6 +23,6 @@ Es recomendable separar lo html y css para así poder tener un path específico 
 La base de datos implementada para este proyecto en MYSQL se va a conectar a través del archivo de API pero esa base de datos ya deberá existir y tener tablas implementadas listas para recibir información.
 
 
- 
+ <img width="318" alt="Screen Shot 2021-11-15 at 12 38 06" src="https://user-images.githubusercontent.com/71286113/141828400-5c61c0e0-281c-4c01-8ac1-6ea95501cf30.png">
  
  
